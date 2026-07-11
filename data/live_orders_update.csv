@@ -1,0 +1,6 @@
+order_id,customer_id,order_date,country,amount,status,email
+1015,5015,2026-07-08,Australia,250.00,COMPLETED,steve.rogers@example.au
+1019,5019,2026-07-08,United States,310.50,COMPLETED,tony.stark@example.com
+1020,5020,2026-07-08,Japan,95.00,COMPLETED,yuki.sato@example.jp
+1021,5021,2026-07-08,Canada,140.00,COMPLETED,wolverine@example.ca
+1022,5022,2026-07-08,Germany,400.00,PENDING,thor@example.de

@@ -1,0 +1,6 @@
+snowflake-connector-python[pandas]==3.12.*
+pyodbc==5.1.*
+python-dotenv==1.0.*
+pandas==2.2.*
+tabulate==0.9.*
+Faker==30.3.*

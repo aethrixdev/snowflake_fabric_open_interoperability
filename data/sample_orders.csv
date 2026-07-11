@@ -1,0 +1,51 @@
+order_id,customer_id,order_date,country,amount,status,email
+1000,2824,2026-06-20,Northern Mariana Islands,34.76,COMPLETED,johnsonjoshua@example.org
+1001,4657,2026-07-03,Burundi,148.14,COMPLETED,rhodespatricia@example.org
+1002,9935,2026-06-19,Nauru,96.07,PENDING,fjohnson@example.org
+1003,1488,2026-07-09,Djibouti,102.76,COMPLETED,hoffmanjennifer@example.net
+1004,1434,2026-06-24,Mayotte,565.63,CANCELLED,lrobinson@example.com
+1005,4611,2026-06-27,Sudan,454.72,COMPLETED,blakeerik@example.com
+1006,1106,2026-06-15,Guam,761.22,COMPLETED,eric51@example.org
+1007,7924,2026-06-18,Hong Kong,346.85,COMPLETED,howardmaurice@example.com
+1008,6514,2026-07-04,Sri Lanka,111.19,PENDING,blairamanda@example.com
+1009,6881,2026-07-07,Belgium,849.02,CANCELLED,maria95@example.net
+1010,1711,2026-07-02,Congo,732.43,CANCELLED,williamsjeremy@example.com
+1011,7201,2026-07-07,Belgium,88.01,COMPLETED,michellejames@example.com
+1012,6925,2026-06-14,North Macedonia,581.58,COMPLETED,francisco53@example.net
+1013,4733,2026-07-09,Ethiopia,775.34,COMPLETED,lynchgeorge@example.net
+1014,4814,2026-06-13,Ecuador,867.82,PENDING,stevennelson@example.net
+1015,8428,2026-07-02,Portugal,639.33,COMPLETED,gabriellecameron@example.org
+1016,7065,2026-07-05,Denmark,361.72,COMPLETED,trujillorichard@example.org
+1017,2169,2026-06-18,Croatia,613.04,COMPLETED,jason76@example.net
+1018,5010,2026-06-23,Kuwait,171.77,PENDING,josephwright@example.net
+1019,4598,2026-07-02,Mauritania,687.77,COMPLETED,julie69@example.com
+1020,1525,2026-07-03,Guyana,807.00,PENDING,wendytaylor@example.com
+1021,2084,2026-07-02,Bermuda,218.87,CANCELLED,callahaneric@example.org
+1022,6155,2026-06-12,Somalia,220.50,PENDING,ycarlson@example.com
+1023,8517,2026-06-28,Nepal,151.44,COMPLETED,jrice@example.org
+1024,9830,2026-07-03,Pitcairn Islands,270.11,CANCELLED,maldonadoamanda@example.com
+1025,7543,2026-06-27,Seychelles,368.38,COMPLETED,daniel62@example.com
+1026,9085,2026-06-24,Afghanistan,100.00,COMPLETED,teresa28@example.org
+1027,2796,2026-06-13,Trinidad and Tobago,161.31,COMPLETED,meagan89@example.org
+1028,7916,2026-06-15,Cape Verde,600.44,PENDING,kathryn88@example.org
+1029,8668,2026-06-28,Netherlands Antilles,533.82,CANCELLED,tracy15@example.com
+1030,1188,2026-06-13,Dominican Republic,683.48,COMPLETED,allenashley@example.org
+1031,9797,2026-06-19,Belize,753.37,COMPLETED,wcabrera@example.net
+1032,5808,2026-07-07,Seychelles,440.42,PENDING,davidalvarez@example.net
+1033,5315,2026-07-10,Chad,972.17,COMPLETED,allison96@example.org
+1034,2743,2026-06-24,Vanuatu,871.81,COMPLETED,jenniferross@example.net
+1035,9317,2026-06-14,Pakistan,612.88,COMPLETED,samuel87@example.org
+1036,3646,2026-06-29,Egypt,543.99,CANCELLED,calebsmith@example.net
+1037,1009,2026-06-11,Denmark,602.96,PENDING,adrianzimmerman@example.org
+1038,2832,2026-07-10,Denmark,929.81,COMPLETED,whiteheadmichele@example.org
+1039,1949,2026-07-03,Malaysia,248.46,CANCELLED,joshuawashington@example.net
+1040,2290,2026-06-10,Bulgaria,94.80,PENDING,esanchez@example.com
+1041,2133,2026-06-14,Comoros,978.20,CANCELLED,davisryan@example.com
+1042,3060,2026-06-16,Isle of Man,137.11,PENDING,dshields@example.net
+1043,3705,2026-06-10,Palau,272.41,CANCELLED,brownjessica@example.org
+1044,4470,2026-06-27,Egypt,929.62,COMPLETED,jameswest@example.com
+1045,6107,2026-06-18,Cocos (Keeling) Islands,405.00,COMPLETED,steven17@example.net
+1046,9479,2026-06-26,Bolivia,456.97,COMPLETED,pearsonamber@example.org
+1047,2049,2026-07-03,Bermuda,344.70,CANCELLED,gabrieltucker@example.org
+1048,4770,2026-06-23,Tonga,592.56,COMPLETED,kbarrera@example.com
+1049,1964,2026-07-08,Afghanistan,236.65,COMPLETED,ybaker@example.com
