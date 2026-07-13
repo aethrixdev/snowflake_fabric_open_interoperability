@@ -64,6 +64,13 @@ For a detailed data flow diagram and format breakdown, see [ARCHITECTURE.md](ARC
 
 ---
 
+## 📊 Dashboard Preview
+
+![Power BI Direct Lake Dashboard](images/powerbi_dashboard.png)
+*Real-time Revenue and Order KPIs served directly from Azure Data Lake Gen2 Delta tables without import refresh.*
+
+---
+
 ## 🚀 Quick Start Guide
 
 ### Step 1: Environment Configuration
